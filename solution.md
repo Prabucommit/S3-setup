@@ -37,7 +37,3 @@ For the second bucket:
 ### Terraform
 
 Click [here](terraform/main.tf) to view the solution
-
-### Pulumi - Python
-
-Click [here](pulumi/__main__.py) to view the solution
